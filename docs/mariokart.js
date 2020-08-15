@@ -126,13 +126,13 @@ function mouseClicked() {
 
   else if(decrementVmax0.getDistance(mouseX, mouseY) < decrementVmax0.r) vm[0] -= 0.1;
   else if(incrementVmax0.getDistance(mouseX, mouseY) < incrementVmax0.r) vm[0] += 0.1;
-  else if(decrementA0.getDistance(mouseX, mouseY) < decrementA0.r) a[0] -= 0.005;
-  else if(incrementA0.getDistance(mouseX, mouseY) < incrementA0.r) a[0] += 0.005;
+  else if(decrementA0.getDistance(mouseX, mouseY) < decrementA0.r) a[0] -= 0.001;
+  else if(incrementA0.getDistance(mouseX, mouseY) < incrementA0.r) a[0] += 0.001;
 
   else if(decrementVmax1.getDistance(mouseX, mouseY) < decrementVmax1.r) vm[1] -= 0.1;
   else if(incrementVmax1.getDistance(mouseX, mouseY) < incrementVmax1.r) vm[1] += 0.1;
-  else if(decrementA1.getDistance(mouseX, mouseY) < decrementA1.r) a[1] -= 0.005;
-  else if(incrementA1.getDistance(mouseX, mouseY) < incrementA1.r) a[1] += 0.005;
+  else if(decrementA1.getDistance(mouseX, mouseY) < decrementA1.r) a[1] -= 0.001;
+  else if(incrementA1.getDistance(mouseX, mouseY) < incrementA1.r) a[1] += 0.001;
 }
 
 
