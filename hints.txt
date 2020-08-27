@@ -1,0 +1,11 @@
+Make sure to follow the hint given in the instructions, i.e. the problem needs to be broken down into parts. Try thinking about and answering some of these questions:
+
+How much time does it take a kart to reach its maximum velocity?
+
+How far does it travel in this amount of time?
+
+How much distance remains once the kart reaches its maximum velocity?
+
+What is the acceleration after the kart reaches its maximum velocity?
+
+How much time does it take for the kart to cover this remaining distance?
